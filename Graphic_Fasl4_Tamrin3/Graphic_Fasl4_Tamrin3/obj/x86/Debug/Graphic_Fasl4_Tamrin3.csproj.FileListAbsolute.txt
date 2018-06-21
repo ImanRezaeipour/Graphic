@@ -1,0 +1,9 @@
+c:\users\iman\documents\visual studio 2010\Projects\Graphic_Fasl4_Tamrin3\Graphic_Fasl4_Tamrin3\bin\Debug\Graphic_Fasl4_Tamrin3.exe
+c:\users\iman\documents\visual studio 2010\Projects\Graphic_Fasl4_Tamrin3\Graphic_Fasl4_Tamrin3\bin\Debug\Graphic_Fasl4_Tamrin3.pdb
+c:\users\iman\documents\visual studio 2010\Projects\Graphic_Fasl4_Tamrin3\Graphic_Fasl4_Tamrin3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\iman\documents\visual studio 2010\Projects\Graphic_Fasl4_Tamrin3\Graphic_Fasl4_Tamrin3\obj\x86\Debug\Graphic_Fasl4_Tamrin3.FrmMain.resources
+c:\users\iman\documents\visual studio 2010\Projects\Graphic_Fasl4_Tamrin3\Graphic_Fasl4_Tamrin3\obj\x86\Debug\Graphic_Fasl4_Tamrin3.Properties.Resources.resources
+c:\users\iman\documents\visual studio 2010\Projects\Graphic_Fasl4_Tamrin3\Graphic_Fasl4_Tamrin3\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\iman\documents\visual studio 2010\Projects\Graphic_Fasl4_Tamrin3\Graphic_Fasl4_Tamrin3\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\iman\documents\visual studio 2010\Projects\Graphic_Fasl4_Tamrin3\Graphic_Fasl4_Tamrin3\obj\x86\Debug\Graphic_Fasl4_Tamrin3.exe
+c:\users\iman\documents\visual studio 2010\Projects\Graphic_Fasl4_Tamrin3\Graphic_Fasl4_Tamrin3\obj\x86\Debug\Graphic_Fasl4_Tamrin3.pdb
